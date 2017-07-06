@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mapvine/msearch.git"
+    "url": "https://github.com/hunthunt2010/Mems"
   },
   "scripts": {
     "dev": "NODE_ENV=development webpack-dev-server --progress --hot --host=0.0.0.0",
